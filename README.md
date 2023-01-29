@@ -40,4 +40,5 @@ Extra information:
 
 Reference:  
 [1] https://www.ftc.gov/news-events/news/press-releases/2022/02/new-data-shows-ftc-received-28-million-fraud-reports-consumers-2021-0
+
 [2] https://www.kaggle.com/competitions/ieee-fraud-detection/data
