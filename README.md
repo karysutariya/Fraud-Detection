@@ -1,6 +1,6 @@
 # Bigdata
 
-According to Faderal Trade Commission of the U.S.A, in 2021, consumers have lost more than $5.8 billion[1]. Many people lose their savings of life in this frauds. Therefore, we are trying to develop a system, Fraud detection. This system is a series of actions used to stop the theft of money or other assets. Many businesses, including banking and insurance companies, can use fraud detection to prevent theft. The advantages of fraud detection and prevention include the ability to prevent fraudsters from stealing money when customers make online transections. As a result, customers will get a better security.
+According to Federal Trade Commission of the U.S.A, in 2021, consumers have lost more than $5.8 billion[1]. Many people lose their life savings in these frauds. Therefore, we are trying to develop a Fraud Detection system. This system could be of great use to multiple parties to potentially identify and take necessary actions in order to stop the theft of money or other assets. Many businesses, including banks, insurance companies, and other third party payment applications can use this system to prevent theft. The advantages of fraud detection and prevention include the ability to prevent fraudsters from stealing money when customers make online transections. As a result, customers will get a better security.
 
 The following research inquiries are addressed in our project:
 1. How to identify that a transaction is fraud or not?
