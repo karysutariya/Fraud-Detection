@@ -39,6 +39,6 @@ Extra information:
 “Random forest has a higher true and false positive rate as the number of explanatory variables increases in a dataset, but logistic regression works better when the number of noisy variables is less than or equal to the number of explanatory variables.Gradient-boosted decision trees and other gradient-boosted models are typically trained with XGBoost. When compared to gradient-boosted decision trees, random forests use a different training approach but the same model representation and inference.”
 
 Reference:  
-[1] https://www.ftc.gov/news-events/news/press-releases/2022/02/new-data-shows-ftc-received-28-million-fraud-reports-consumers-2021-0
+[1] Jay Mayfield. (February 22, 2022). New Data Shows FTC Received 2.8 Million Fraud Reports from Consumers in 2021. https://www.ftc.gov/news-events/news/press-releases/2022/02/new-data-shows-ftc-received-28-million-fraud-reports-consumers-2021-0
 
-[2] https://www.kaggle.com/competitions/ieee-fraud-detection/data
+[2] IEEE Computational Intelligence Society. (2020). IEEE-CIS Fraud Detection. https://www.kaggle.com/competitions/ieee-fraud-detection/data
