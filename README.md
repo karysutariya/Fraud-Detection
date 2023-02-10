@@ -51,5 +51,6 @@ Our group will prepare the data by cleaning and preprocessing it i.e taking care
 
 [1] Jay Mayfield. (February 22, 2022). New Data Shows FTC Received 2.8 Million Fraud Reports from Consumers in 2021. https://www.ftc.gov/news-events/news/press-releases/2022/02/new-data-shows-ftc-received-28-million-fraud-reports-consumers-2021-0
 
-[2] IEEE Computational Intelligence Society. (2020). IEEE-CIS Fraud Detection. https://www.kaggle.com/competitions/ieee-fraud-detection/data
+[2] IEEE Computational Intelligence Society. (2020). IEEE-CIS Fraud Detection. 
+https://www.kaggle.com/competitions/ieee-fraud-detection/data
 
