@@ -23,9 +23,11 @@ test_transaction.csv and test_identity.csv: - Files are needed to find out accur
 
 sample_submission.csv - a sample submission file.
 
-The categorical features used for these data sets are:
-TRANSACTION: ProductCD, card1 - card6, addr1, addr2, P_emaildomain, R_emaildomain, M1 - M9.
-CATEGORICAL: DeviceType, DeviceInfo, id_12 - id_38
+The features used for these data sets are:
+
+* TRANSACTION: ProductCD, card1 - card6, addr1, addr2, P_emaildomain, R_emaildomain, M1 - M9.
+
+* CATEGORICAL: DeviceType, DeviceInfo, id_12 - id_38
 
 ### RESEARCH QUESTIONS:
 
