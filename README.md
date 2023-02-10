@@ -27,7 +27,7 @@ The categorical features used for these data sets are:
 TRANSACTION: ProductCD, card1 - card6, addr1, addr2, P_emaildomain, R_emaildomain, M1 - M9.
 CATEGORICAL: DeviceType, DeviceInfo, id_12 - id_38
 
-### Research Questions:
+### RESEARCH QUESTIONS:
 
 The following research inquiries are addressed in our project:
 
