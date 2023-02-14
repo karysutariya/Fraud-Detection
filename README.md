@@ -44,7 +44,9 @@ We have also made sure our project uses various algorithms to show the comparati
 
 Random forest has a higher true and false positive rate as the number of explanatory variables increases in a dataset, but logistic regression works better when the number of noisy variables is less than or equal to the number of explanatory variables. Gradient-boosted decision trees and other gradient-boosted models are typically trained with XGBoost. When compared to gradient-boosted decision trees, random forests use a different training approach but the same model representation and inference.
 
-Our group will prepare the data by cleaning and preprocessing it i.e taking care of any missing data, encoding and get rid of extraneous and pointless features, which will be done through Spark Dataframes. This cleaned data will be then applied to the machine learning models for further processing.
+Our group will prepare the data by cleaning and preprocessing it i.e taking care of any missing data, encoding and get rid of extraneous and pointless features, which will be done through Spark Dataframes. This cleaned data will be then applied to the machine learning models for further processing. Since this is a case of outlier detection, there may be a possible need to resample the data. We will explore some methods in the field of either undersampling or oversampling. One such method will be SMOTE.
+
+The chosen metrics to improve will be recall and precision, but more specially recall. We intend to punish a fraud severely so that a transaction that is actually fraud is detected everytime by the system. However, this means that sometimes a transaction which is not fraud will be marked fraud as well. We will try to reduce such cases, but we are still fine with a non-fraud transaction being labelled as fraud. We believe all cases detected by the system will be manually reviewed in the end, and thus legit transactions be allowed and illegal transactions be stopped. But once a fraud is not detected, we assume there is no way to roll it back, and in reality, the process is usually cumbersome.
 
 
 ### REFERENCE:
