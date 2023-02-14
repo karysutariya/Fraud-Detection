@@ -23,11 +23,18 @@ test_transaction.csv and test_identity.csv: - Files are needed to find out accur
 
 sample_submission.csv - a sample submission file.
 
-The features used for these data sets are:
+### Categorical Data Description: 
 
-* TRANSACTION: ProductCD, card1 - card6, addr1, addr2, P_emaildomain, R_emaildomain, M1 - M9.
+The dataset is later divided into two files linked by just an ID which is the TransactionID.
+The categorical features included here are:
 
-* CATEGORICAL: DeviceType, DeviceInfo, id_12 - id_38
+TRANSACTION: The features here are used frequently when a transaction is taking place. A product of purchase with the help of cards available and purchaser and recipient email domain match, along with names on card and address, and  other categorical features to maintain precision.
+
+ProductCD, card1 - card6, addr1, addr2, P_emaildomain, R_emaildomain, M1 - M9.
+
+IDENTITY: Identity information is linked with transactions are network connection details (IP, ISP, Proxy, etc.) and digital signatures (UA/browser/os/version, etc.).
+
+DeviceType, DeviceInfo, id_12 - id_38
 
 ### RESEARCH QUESTIONS:
 
